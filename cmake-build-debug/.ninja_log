@@ -1,0 +1,19 @@
+# ninja log v6
+1	276	1732041495895904038	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+2	273	1732041495895904038	CMakeFiles/ClassTemplates.dir/DynamicArray.cpp.o	30b438884435feca
+1	20	1732041648838456590	build.ninja	b1d5eba2520b36c1
+0	283	1732041648848456757	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+283	328	1732041649130461448	ClassTemplates	89f849224b48dcf6
+1	276	1732042022827641957	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+276	318	1732042023102646484	ClassTemplates	89f849224b48dcf6
+1	296	1732042054246159055	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+296	343	1732042054541163909	ClassTemplates	89f849224b48dcf6
+1	273	1732042144508643104	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+1	269	1732042200144556836	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+269	315	1732042200412561236	ClassTemplates	89f849224b48dcf6
+1	278	1732042578141749942	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+278	321	1732042578418754473	ClassTemplates	89f849224b48dcf6
+1	293	1732042907762137288	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+293	337	1732042908053142041	ClassTemplates	89f849224b48dcf6
+1	267	1732043091416136010	CMakeFiles/ClassTemplates.dir/main.cpp.o	e00f77f58ce0d36e
+267	311	1732043091682140352	ClassTemplates	89f849224b48dcf6
